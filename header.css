@@ -3,15 +3,14 @@
 .cabecalho__menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url("../Menu.svg");
+    background-image: url("Menu.svg");
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
     padding-left: 2em;
 }
-/*FELIPE DA SILVA SANTOS 3D 12/11/2024*/
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
-    background-image: url(..//MenuAberto.png);
+    background-image: url(MenuAberto.png);
 }
 
 .container__botao:checked~.container__rotulo {
