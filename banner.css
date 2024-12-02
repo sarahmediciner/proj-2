@@ -1,4 +1,4 @@
-/* Gabriel Berto Tavares 3°D  27/11/2024 */
+/* Sarah Oliveira 3°D  27/11/2024 */
 
 .banner {
     background: var(--azul-degrade);
@@ -31,7 +31,7 @@
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("../img/Lupa.svg") no-repeat;
+    background: url("Lupa.svg") no-repeat;
     background-position: 0.5em;
 }
 @media screen and (min-width: 1024px) {
