@@ -1,9 +1,9 @@
-/* Gabriel Berto Tavares 3°D  27/11/2024 */
+/* Sarah Oliveira 3°D  27/11/2024 */
 
 .cabecalho__menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url("../img/Menu.svg");
+    background-image: url("../Menu.svg");
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
@@ -11,7 +11,7 @@
 }
 /*FELIPE DA SILVA SANTOS 3D 12/11/2024*/
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
-    background-image: url(../img//MenuAberto.png);
+    background-image: url(..//MenuAberto.png);
 }
 
 .container__botao:checked~.container__rotulo {
