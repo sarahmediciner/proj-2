@@ -1,11 +1,11 @@
 /* Sarah Oliveira 3°D  27/11/2024 */
 
-@import url("Styles/header.css");
-@import url("Styles/banner.css");
-@import url("Styles/carrossel.css");
-@import url("Styles/topicos.css");
-@import url("Styles/contato.css");
-@import url("Styles/rodape.css");
+@import url("header.css");
+@import url("banner.css");
+@import url("carrossel.css");
+@import url("topicos.css");
+@import url("contato.css");
+@import url("rodape.css");
 :root {
     --fundo: #EBECEE;
     --branco: #FFFFFF;
